@@ -1,1 +1,1 @@
-# Finding-the-minimum-and-maximum-of-functions-using-genetic-algorithms
+# Finding-the-minimum-and-maximum-of-functions-using-genetic-algorithms[Finding the minimum and maximum of functions using genetic algorithms.pdf](https://github.com/user-attachments/files/19738458/Finding.the.minimum.and.maximum.of.functions.using.genetic.algorithms.pdf)
